@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+
+body {
+    font-family:'Plus Jakarta Sans', sans-serif;
+    background: linear-gradient(180deg, #FFFFFF 0%, #F0F1FF 100%);
+}
+
+main { 
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.container {
+ display: Flex;
+ gap: 100px;
+ margin-top: 20px;
+}
+
+.darkimage {
+    margin-top: 12px;
+    width:90px;
+    height:25px;
+}
+
+.getstarted {
+    width: 150px;
+    height: 49px;
+    border-radius: 28px;
+    background-color: #13183F;
+    border-style: solid;
+}
+
+a {
+    font-weight: 700;
+    font-size: 15px;
+    color: white;
+}
+
+h1 {
+    margin-top:25px;
+    width: 343px;
+    height: 101px;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    color: #13183F;    
+}
+
+.paragraph {
+    margin-top: 25px;
+    width: 343px;
+    height: 78px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #83869A;    
+}
+
+.getstartedmiddle {
+    margin-right: 185px;
+    margin-top: 22px;
+    width: 167px;
+    height: 56px;
+    border-radius: 31px;
+    border-style: solid;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+
+}
+
+.aa {
+ font-size: 15px;
+ font-weight: 700px;
+}
+
+.middlecontainer {
+    width: 343px;
+    height: 120px;
+    background: linear-gradient(180deg, #FF6F48 0%, #F02AA6 100%);
+    color: white;
+    border-radius: 10px;  
+}
+
+.aaa { 
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 286px;
+    height: 64px;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.box {
+    margin-top: 40px;
+    width: 343px;
+    height: 259px;
+    border-radius: 10px;
+    background-color: white;
+}
+
+h2 {
+    margin-top: 70px;
+    margin-left: 30px;
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 25px;
+    color: #13183F;
+}
+
+.paragraphs {
+    margin-top: 10px;
+    margin-left: 30px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    color: #83869A;
+}
+
+h3 {
+    margin-top: 15px;
+    margin-left: 30px;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 28px;
+    color: #F74780;
+}
+
+.lastcontainer {
+    display:flex;
+    align-items: center;
+    gap: 100px;
+    margin-top: 80px;
+    width: 375px;
+    height: 120px;
+    background-color: #13183F;
+}
+
+.lightimage {
+    margin-left: 22px;
+    width:90px;
+    height:25px;
+
+}
+
+.getstartedlast {
+    width: 140px;
+    height: 48px;
+    border-radius: 28px;
+    border-style: none;
+    background: linear-gradient(180deg, #4851FF 0%, #F02AA6 100%);
+    color: white;
+}
+
+.aaaa {
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.animationicon {
+    position: absolute;
+    margin-bottom: 700px;
+    margin-right: 250px;
+}
+
+.designicon {
+    position: absolute;
+    margin-bottom: 100px;
+    margin-right: 250px;
+}
+
+.photographyicon {
+    position: absolute;
+    margin-right: 250px;
+    margin-top: 500px;
+}
+
+.cryptoicon {
+    position: absolute;
+    margin-right: 250px;
+    margin-top: 1100px;
+}
+
+.businessicon {
+    position: absolute;
+    margin-right: 250px;
+    margin-top: 1700px;
+}
